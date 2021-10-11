@@ -1,1 +1,1 @@
-# Engineering-Statistics-Project
+# Statistical computing and applications project
