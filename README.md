@@ -1,1 +1,1 @@
-# Statistical computing and applications project
+# advanced statistics project
